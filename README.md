@@ -4,6 +4,14 @@ A Cross Platform Mobile Application developed with Kendo UI Mobile.
 This is a blank template that provides Kendo UI Mobile framework for development to be used with Cordova.
 
 ## Usage
+
+from npm:
+
+```
+    cordova create <appname> --template cordova-kendo-ui-blank-template
+```
+or from github
+
 ```
     cordova create <appname> --template https://github.com/lohithgn/cordova-kendo-ui-blank-template
 ```
