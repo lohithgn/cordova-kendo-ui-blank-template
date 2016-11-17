@@ -1,6 +1,7 @@
 # Cordova Kendo  UI Blank Template
-A cross platform mobile device application developed with Kendo UI Core. 
-This is a blank template that provides the Kendo UI Core framework files and the references for development with the framework to be used with TACO CLI.
+A Cross Platform Mobile Application developed with Kendo UI Mobile.
+
+This is a blank template that provides Kendo UI Mobile framework for development to be used with Cordova.
 
 ## Usage
 ```
